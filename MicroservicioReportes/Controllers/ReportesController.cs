@@ -15,10 +15,17 @@ namespace MicroservicioReportes.Controllers
             _mediator = mediator;
 
         }
-        [HttpPost("obtenerReporteSubastas")]
+        [HttpGet("obtenerReporteSubastas")]
         public async Task<IActionResult> ObtenerReporteSubastas()
         {
             var resultado = await _mediator.Send(new ReporteSubastasRealizadasQuery());
+            return Ok(resultado);
+        }
+
+        [HttpGet("obtenerReportePujasRealizadasUsuario/{correo}")]
+        public async Task<IActionResult> ObtenerReportePujasRealizadasUsuario(string correo)
+        {
+            var resultado = await _mediator.Send(new ReportePujasRealizadasUsuarioQuery(correo));
             return Ok(resultado);
         }
     }

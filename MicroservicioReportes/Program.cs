@@ -29,10 +29,10 @@ builder.Services.AddHttpClient<SubastaService>(client =>
     client.BaseAddress = new Uri("http://localhost:5003/api/usuarios/");
 });
 
-/*builder.Services.AddHttpClient<PujaService>(client =>
+builder.Services.AddHttpClient<PujaService>(client =>
 {
     client.BaseAddress = new Uri("http://localhost:5004/api/Pujas/");
-});*/
+});
 
 
 builder.Services.AddMediatR(cfg =>
@@ -40,7 +40,7 @@ builder.Services.AddMediatR(cfg =>
 
 
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
-//builder.Services.AddScoped<IPujaService, PujaService>();
+builder.Services.AddScoped<IPujaService, PujaService>();
 builder.Services.AddScoped<ISubastaService, SubastaService>();
 
 var app = builder.Build();
