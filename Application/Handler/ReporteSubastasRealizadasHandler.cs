@@ -57,6 +57,10 @@ namespace Application.Handler
 
                 return resultado;
             }
+            catch (UsuarioNoEncontradoException)
+            {
+                throw;
+            }
             catch (System.Exception ex)
             {
                throw new FalloAlObtenerSubastasException("Error al generar el reporte de subastas", ex);

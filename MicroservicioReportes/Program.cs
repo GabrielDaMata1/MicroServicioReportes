@@ -34,6 +34,10 @@ builder.Services.AddHttpClient<PujaService>(client =>
     client.BaseAddress = new Uri("http://localhost:5004/api/Pujas/");
 });
 
+builder.Services.AddHttpClient<PagoService>(client =>
+{
+    client.BaseAddress = new Uri("http://localhost:5005/api/Pagos/");
+});
 
 builder.Services.AddMediatR(cfg =>
     cfg.RegisterServicesFromAssembly(typeof(ReporteSubastasRealizadasQuery).Assembly));
@@ -42,6 +46,8 @@ builder.Services.AddMediatR(cfg =>
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 builder.Services.AddScoped<IPujaService, PujaService>();
 builder.Services.AddScoped<ISubastaService, SubastaService>();
+builder.Services.AddScoped<IPagosService, PagoService>();
+
 
 var app = builder.Build();
 

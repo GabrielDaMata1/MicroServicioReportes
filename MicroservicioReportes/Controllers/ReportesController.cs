@@ -28,5 +28,12 @@ namespace MicroservicioReportes.Controllers
             var resultado = await _mediator.Send(new ReportePujasRealizadasUsuarioQuery(correo));
             return Ok(resultado);
         }
+
+        [HttpGet("obtenerPagosRecibidosSubastador/{correo}")]
+        public async Task<IActionResult> ObtenerPagosRecibidosSubastador(string correo)
+        {
+            var resultado = await _mediator.Send(new ReportePagosRecibidosSubastadorQuery(correo));
+            return Ok(resultado);
+        }
     }
 }
