@@ -7,6 +7,7 @@ using Application.DTOs;
 using Application.Exception;
 using Application.Exceptions;
 using Application.Query;
+using Domain.Entities;
 using Domain.Interfaces;
 using MediatR;
 
@@ -26,36 +27,41 @@ namespace Application.Handler
         {
             try
             {
-               var subastas = await _subastaService.ObtenerSubastas();
+                var subastas = await _subastaService.ObtenerSubastas();
 
-               var resultado = new List<ReporteSubastasDTO>();
+                var listaSubastas = subastas.Select(async e => new ReporteSubastasDTO
+                {
+                    IdSubasta = e.IdSubasta,
+                    correoUsuario = await _usuarioService.ObtenerCorreoPorIdAsync(e.IdUsuario),
+                    NombreSubasta = e.NombreSubasta.Nombre,
+                    DescripcionSubasta = e.DescripcionSubasta.descripcion,
+                    Estado = e.EstadoSubasta.estado,
+                    FechaInicio = e.FechaInicioSubasta.fechaInicio,
+                    FechaFin = e.FechaFinSubasta.fechaFin,
+                    incrementoMinimo = e.IncrementoMinimoSubasta.incrementoMinimo,
+                    precioReserva = e.PrecioReservaSubasta.precioReserva,
+                    IdProducto = e.IdProducto,
+                    NombreProducto = e.NombreProducto.Nombre,
+                    DescripcionProducto = e.DescripcionProducto.descripcion,
+                    PrecioBase = e.PrecioBaseProducto.precio,
+                    Categoria = e.CategoriaProducto.categoria,
+                    urlImagen = e.ImagenURLProducto.url,
 
-               foreach (var subasta in subastas)
-               {
-                 var correo = await _usuarioService.ObtenerCorreoPorIdAsync(subasta.IdUsuario) ?? throw new UsuarioNoEncontradoException();
-                 var dto = new ReporteSubastasDTO
-                 {
-                     IdSubasta = subasta.IdSubasta,
-                     NombreSubasta = subasta.NombreSubasta.Nombre,
-                     DescripcionSubasta = subasta.DescripcionSubasta.descripcion,
-                     Estado = subasta.EstadoSubasta.estado,
-                     FechaInicio = subasta.FechaInicioSubasta.fechaInicio,
-                     FechaFin = subasta.FechaFinSubasta.fechaFin,
-                     incrementoMinimo = subasta.IncrementoMinimoSubasta.incrementoMinimo,
-                     precioReserva = subasta.PrecioReservaSubasta.precioReserva,
-                     correoUsuario = correo,
-                     IdProducto = subasta.IdProducto,
-                     NombreProducto = subasta.NombreProducto.Nombre,
-                     DescripcionProducto = subasta.DescripcionProducto.descripcion,
-                     PrecioBase = subasta.PrecioBaseProducto.precio,
-                     Categoria = subasta.CategoriaProducto.categoria,
-                     urlImagen = subasta.ImagenURLProducto.url
-                 };
+                    Pujas = e.ListaPujas.Select(p => new PujaDTO
+                    {
+                        id = p.Id,
+                        montoPuja = p.MontoPuja.montoPuja,
+                        correoUsuario = p.CorreoUsuarioPuja,
+                        montoMaximo = p.MontoMaximo.montoMaximo,
+                        tipoPuja = p.TipoPuja.tipoPuja,
+                        montoPredeterminado = p.MontoPredeterminado.montoPredeterminado,
+                        fecha = p.FechaPuja.fechaPuja
+                    }).ToList()
+                });
 
-                 resultado.Add(dto);
-               }
+                var dtos = await Task.WhenAll(listaSubastas);
+                return dtos.ToList();
 
-                return resultado;
             }
             catch (UsuarioNoEncontradoException)
             {

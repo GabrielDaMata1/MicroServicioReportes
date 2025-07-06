@@ -22,6 +22,8 @@ namespace Domain.Entities
 
         public FechaPujaVO FechaPuja { get; set; } 
 
+        public string CorreoUsuarioPuja { get; set; }
+
         [JsonConstructor]
         public Puja(Guid id, MontoPujaVO montoPuja, MontoMaximoPujaVO montoMaximo, TipoPujaVO tipoPuja, MontoPredeterminadoPujaVO montoPredeterminado, FechaPujaVO fechaPuja)
         {
@@ -31,6 +33,17 @@ namespace Domain.Entities
             TipoPuja = tipoPuja;
             MontoPredeterminado = montoPredeterminado;
             FechaPuja = fechaPuja;
+        }
+
+        public Puja(Guid id, MontoPujaVO montoPuja, MontoMaximoPujaVO montoMaximo, TipoPujaVO tipoPuja, MontoPredeterminadoPujaVO montoPredeterminado, FechaPujaVO fechaPuja, string correoUsuario)
+        {
+            Id = id;
+            MontoPuja = montoPuja;
+            MontoMaximo = montoMaximo;
+            TipoPuja = tipoPuja;
+            MontoPredeterminado = montoPredeterminado;
+            FechaPuja = fechaPuja;
+            CorreoUsuarioPuja = correoUsuario;
         }
     }
 
