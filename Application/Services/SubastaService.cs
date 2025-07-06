@@ -8,6 +8,7 @@ using Application.DTOs;
 using Domain.Entities;
 using Domain.Interfaces;
 using Domain.Value_Object;
+using Domain.Value_Objects;
 
 namespace Application.Services
 {
@@ -23,7 +24,7 @@ namespace Application.Services
         {
             try
             {
-                var response = await _httpClient.GetAsync("http://localhost:5003/api/Subastas/obtenerSubastas");
+                var response = await _httpClient.GetAsync("http://localhost:5003/api/Subastas/obtenerSubastasGanadasPujas");
 
                 if (!response.IsSuccessStatusCode)
                     return new List<SubastaReporte>();
@@ -55,7 +56,16 @@ namespace Application.Services
                     imagenURLProducto: new ImagenURLProductoVO(dto.urlImagen),
                     precioBaseProducto: new PrecioBaseProductoVO(dto.PrecioBase),
                     categoriaProducto: new CategoriaProductoVO(dto.Categoria),
-                    estadoProducto: new EstadoProductoVO(dto.Estado) 
+                    estadoProducto: new EstadoProductoVO(dto.Estado),
+                    listaPujas: dto.Pujas.Select(p => new Puja(
+                        id: p.id,
+                        montoPuja: new MontoPujaVO(p.montoPuja),
+                        montoMaximo: new MontoMaximoPujaVO(p.montoMaximo),
+                        tipoPuja: new TipoPujaVO(p.tipoPuja),
+                        montoPredeterminado: new MontoPredeterminadoPujaVO(p.montoPredeterminado),
+                        fechaPuja: new FechaPujaVO(p.fecha),
+                        correoUsuario: p.correoUsuario
+                    )).ToList()
                 )).ToList();
 
                 return subastas;

@@ -27,5 +27,7 @@ namespace Application.DTOs
         public string Categoria { get; set; }
 
         public string urlImagen { get; set; }
+
+        public List<PujaDTO> Pujas { get; set; } = new();
     }
 }

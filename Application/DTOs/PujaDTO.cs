@@ -11,6 +11,8 @@ namespace Application.DTOs
     public class PujaDTO
     {
         public Guid id { get; set; }
+
+        public string correoUsuario { get; set; }
         public decimal montoPuja { get; set; }
         public decimal montoMaximo { get; set; }
         public string tipoPuja { get; set; }

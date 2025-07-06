@@ -29,19 +29,22 @@ namespace Domain.Entities
 
         public EstadoProductoVO EstadoProducto { get; set; }
 
+        public List<Puja> ListaPujas { get; set; } = new();
+
+
         public SubastaReporte(Guid idSubasta, NombreSubastaVO nombreSubasta, DescripcionSubastaVO descripcionSubasta, FechaInicioSubastaVO fechaInicioSubasta, 
             FechaFinSubastaVO fechaFinSubasta, IncrementoMinimoSubastaVO incrementoMinimoSubasta, PrecioReservaSubastaVO precioReservaSubasta, EstadoSubastaVO estadoSubasta, Guid idUsuario,
             Guid idProducto, NombreProductoVO nombreProducto, DescripcionProductoVO descripcionProducto, ImagenURLProductoVO imagenURLProducto, PrecioBaseProductoVO precioBaseProducto, 
-            CategoriaProductoVO categoriaProducto, EstadoProductoVO estadoProducto)
+            CategoriaProductoVO categoriaProducto, EstadoProductoVO estadoProducto, List<Puja> listaPujas)
         {
             IdSubasta = idSubasta;
-            this.NombreSubasta = nombreSubasta;
-            this.DescripcionSubasta = descripcionSubasta;
-            this.FechaInicioSubasta = fechaInicioSubasta;
-            this.FechaFinSubasta = fechaFinSubasta;
-            this.IncrementoMinimoSubasta = incrementoMinimoSubasta;
-            this.PrecioReservaSubasta = precioReservaSubasta;
-            this.EstadoSubasta = estadoSubasta;
+            NombreSubasta = nombreSubasta;
+            DescripcionSubasta = descripcionSubasta;
+            FechaInicioSubasta = fechaInicioSubasta;
+            FechaFinSubasta = fechaFinSubasta;
+            IncrementoMinimoSubasta = incrementoMinimoSubasta;
+            PrecioReservaSubasta = precioReservaSubasta;
+            EstadoSubasta = estadoSubasta;
             IdUsuario = idUsuario;
             IdProducto = idProducto;
             NombreProducto = nombreProducto;
@@ -50,6 +53,7 @@ namespace Domain.Entities
             PrecioBaseProducto = precioBaseProducto;
             CategoriaProducto = categoriaProducto;
             EstadoProducto = estadoProducto;
+            ListaPujas = listaPujas;
         }
     }
 
