@@ -12,14 +12,24 @@ using Domain.Value_Objects;
 
 namespace Application.Services
 {
+    /// <summary>
+    /// Clase Service que se encarga de procesar todas las operaciones sobre una subasta, realizando peticiones HTTP al Microservicio Subastas.
+    /// </summary>
     public class SubastaService: ISubastaService
     {
+        /// <summary>
+        /// Atributo que se encarga de procesar las solicitudes a servicios externos.
+        /// </summary>
         private readonly HttpClient _httpClient;
 
         public SubastaService(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
+        /// <summary>
+        /// Método que se encarga de obtener las subastas con sus pujas en el Microservicio Subastas.
+        /// </summary>
+        /// <returns>Retorna una lista de objetos SubastaReporte con su detalle</returns>
         public async Task<List<SubastaReporte>> ObtenerSubastas()
         {
             try

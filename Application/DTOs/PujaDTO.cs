@@ -8,15 +8,38 @@ using Domain.Value_Objects;
 
 namespace Application.DTOs
 {
+    /// <summary>
+    /// Clase DTO que se encarga de encapsular la información necesaria para consultar una puja desde el Microservicio Pujas.
+    /// </summary>
     public class PujaDTO
     {
+        /// <summary>
+        /// Atributo que corresponde al ID de la puja.
+        /// </summary>
         public Guid id { get; set; }
-
+        /// <summary>
+        /// Atributo que corresponde al correo del usuario que realizó la puja.
+        /// </summary>
         public string correoUsuario { get; set; }
+        /// <summary>
+        /// Atributo que corresponde al monto de la puja.
+        /// </summary>
         public decimal montoPuja { get; set; }
+        /// <summary>
+        /// Atributo que corresponde al monto maximo de la puja.
+        /// </summary>
         public decimal montoMaximo { get; set; }
+        /// <summary>
+        /// Atributo que corresponde al tipo de puja.
+        /// </summary>
         public string tipoPuja { get; set; }
+        /// <summary>
+        /// Atributo que corresponde al monto predeterminado de la puja.
+        /// </summary>
         public decimal montoPredeterminado { get; set; }
+        /// <summary>
+        /// Atributo que corresponde a la fecha de la puja.
+        /// </summary>
 
         public DateTime fecha { get; set; }
     }

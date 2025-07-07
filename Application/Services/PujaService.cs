@@ -14,15 +14,25 @@ using Domain.Value_Objects;
 
 namespace Application.Services
 {
+    /// <summary>
+    /// Clase Service que se encarga de procesar todas las operaciones sobre una puja, realizando peticiones HTTP al Microservicio Puja.
+    /// </summary>
     public class PujaService : IPujaService
     {
+        /// <summary>
+        /// Atributo que se encarga de procesar las solicitudes a servicios externos.
+        /// </summary>
         private readonly HttpClient _httpClient;
 
     public PujaService(HttpClient httpClient)
     {
         _httpClient = httpClient;
     }
-
+        /// <summary>
+        /// Método que se encarga de obtener las pujas agrupadas por subastas realziads por un usuario en el Microservicio Pujas.
+        /// </summary>
+        /// <param name="correo">Parametro que corresponde al correo del usuario a consultar</param>
+        /// <returns>Retorna una lista de objetos ReportePujaUsuario con su detalle</returns>
         public async Task<List<ReportePujasUsuario>> ObtenerReportePujasPorUsuarioAsync(string correo)
         {
             var response = await _httpClient.GetAsync($"http://localhost:5004/api/Pujas/obtenerPujasUsuario/{correo}");

@@ -12,14 +12,25 @@ using Domain.Value_Objects;
 
 namespace Application.Services
 {
+    /// <summary>
+    /// Clase Service que se encarga de procesar todas las operaciones sobre un pago, realizando peticiones HTTP al Microservicio Pagos.
+    /// </summary>
     public class PagoService : IPagosService
     {
+        /// <summary>
+        /// Atributo que se encarga de procesar las solicitudes a servicios externos.
+        /// </summary>
         private readonly HttpClient _httpClient;
 
         public PagoService(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
+        /// <summary>
+        /// Método que se encarga de obtener los pagos recibidos por un subastador en el Microservicio Pagos.
+        /// </summary>
+        /// <param name="correo">Parametro que corresponde al correo del subastador a consultar</param>
+        /// <returns>Retorna una lista de objetos ReportePagosRecibidosSubastador con su detalle</returns>
         public async Task<List<ReportePagosRecibidosSubastador>> ObtenerPagosRecibidos(string correo)
         {
             try
@@ -40,7 +51,7 @@ namespace Application.Services
                 if (dtos == null || !dtos.Any())
                     return new List<ReportePagosRecibidosSubastador>();
 
-                var subastas = dtos.Select(dto => new ReportePagosRecibidosSubastador(
+                var pagos = dtos.Select(dto => new ReportePagosRecibidosSubastador(
                     idSubasta: dto.IdSubasta,
                     nombreSubasta: new NombreSubastaVO(dto.NombreSubasta),
                     descripcionSubasta: new DescripcionSubastaVO(dto.DescripcionSubasta),
@@ -56,7 +67,7 @@ namespace Application.Services
                     idUsuario : dto.IdUsuario
                 )).ToList();
 
-                return subastas;
+                return pagos;
             }
             catch (System.Exception ex)
             {

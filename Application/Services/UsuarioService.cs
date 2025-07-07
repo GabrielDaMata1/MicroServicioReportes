@@ -4,18 +4,29 @@ using Domain.Interfaces;
 
 namespace Application.Services
 {
+    /// <summary>
+    /// Clase Service que se encarga de procesar todas las operaciones sobre un usuario, realizando peticiones HTTP al Microservicio Usuarios.
+    /// </summary>
 
-
-public class UsuarioService: IUsuarioService
+    public class UsuarioService: IUsuarioService
 {
-    private readonly HttpClient _httpClient;
+    /// <summary>
+    /// Atributo que se encarga de procesar las solicitudes a servicios externos.
+    /// </summary>
+        private readonly HttpClient _httpClient;
 
     public UsuarioService(HttpClient httpClient)
     {
         _httpClient = httpClient;
     }
 
-    public async Task<Guid> ObtenerUsuarioPorIdAsync(string correo)
+        /// <summary>
+        /// Método que se encarga de obtener el ID de un usuario por su correo en el Microservicio Usuarios.
+        /// </summary>
+        /// <param name="correo">Parametro que corresponde al correo del usuario a consultar</param>
+        /// <returns>Retorna un valor GUID que corresponde al ID del usuario consultado.
+        /// Si no lo consigue, retorna un GUID vacio</returns>
+        public async Task<Guid> ObtenerUsuarioPorIdAsync(string correo)
     {
         var response = await _httpClient.GetAsync($"http://localhost:5001/api/usuarios/IdUsuario/{correo}");
 
@@ -37,7 +48,13 @@ public class UsuarioService: IUsuarioService
         }
     }
 
-    public async Task<string> ObtenerCorreoPorIdAsync(Guid idUsuario)
+        /// <summary>
+        /// Método que se encarga de obtener el correo de un usuario por su ID en el Microservicio Usuarios.
+        /// </summary>
+        /// <param name="idUsuario">Parametro que corresponde al ID del usuario a consultar</param>
+        /// <returns>Retorna un valor string que corresponde al correo del usuario consultado.
+        /// Si no lo consigue, retorna null</returns>
+        public async Task<string> ObtenerCorreoPorIdAsync(Guid idUsuario)
     {
         var response = await _httpClient.GetAsync($"http://localhost:5001/api/usuarios/Correo/{idUsuario}");
 

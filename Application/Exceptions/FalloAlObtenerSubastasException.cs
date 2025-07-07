@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Application.Exceptions
 {
+    /// <summary>
+    /// Clase Exception que se encarga de manejar los errores producidos al obtener una subasta en el Microservicio Subastas.
+    /// </summary>
     public class FalloAlObtenerSubastasException: System.Exception
     {
         public FalloAlObtenerSubastasException() : base("Ha ocurrido un error al obtener las subasta.") { }
