@@ -3,92 +3,164 @@
   "WorkspaceRootPath": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\handler\\reportesubastasrealizadashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\handler\\reportesubastasrealizadashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\subastaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\subastaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\subastareporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\subastareporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\puja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\puja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\pujadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\pujadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\handler\\reportepujasrealizadasusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\handler\\reportepujasrealizadasusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\reportesubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportesubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\reportepagosrecibidossubastadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportepagosrecibidossubastadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\reportepujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportepujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\pujaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\pujaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\reportepujasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reportepujasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\historialpujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialpujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\historialsubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialsubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\webapitest\\reportescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\webapitest\\reportescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268BCA22-FD4C-4324-BF53-02924D54D3A0}|MicroservicioReportes\\MicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\microservicioreportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268BCA22-FD4C-4324-BF53-02924D54D3A0}|MicroservicioReportes\\MicroservicioReportes.csproj|solutionrelative:microservicioreportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268BCA22-FD4C-4324-BF53-02924D54D3A0}|MicroservicioReportes\\MicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\microservicioreportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268BCA22-FD4C-4324-BF53-02924D54D3A0}|MicroservicioReportes\\MicroservicioReportes.csproj|solutionrelative:microservicioreportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\servicestest\\subastaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\servicestest\\subastaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\subastaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\subastaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\servicestest\\pujaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\servicestest\\pujaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\pujaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\pujaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\servicestest\\pagoservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\servicestest\\pagoservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\servicestest\\usuarioservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\servicestest\\usuarioservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\handlertest\\reportesubastasrealizadashandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\handlertest\\reportesubastasrealizadashandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\subastareporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\subastareporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\handler\\reportesubastasrealizadashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\handler\\reportesubastasrealizadashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\handlertest\\reportepujasrealizadasusuariohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\handlertest\\reportepujasrealizadasusuariohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\handler\\reportepujasrealizadasusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\handler\\reportepujasrealizadasusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\handler\\reportepagosrecibidossubastadorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\handler\\reportepagosrecibidossubastadorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\historialpagosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialpagosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\query\\reportesubastasrealizadasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\query\\reportesubastasrealizadasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\query\\reportepagosrecibidossubastadorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\query\\reportepagosrecibidossubastadorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\handlertest\\reportepagosrecibidossubastadorhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\handlertest\\reportepagosrecibidossubastadorhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\query\\reportepujasrealizadasusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\query\\reportepujasrealizadasusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\reportepujasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reportepujasusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\reportepagosrecibidossubastador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reportepagosrecibidossubastador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\querytest\\reportepujasrealizadasusuarioquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\querytest\\reportepujasrealizadasusuarioquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\query\\reportepujasrealizadasusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\query\\reportepujasrealizadasusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\testmicroservicioreportes\\querytest\\reportepagosrecibidossubastaquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922B9D6-6F10-4485-9B99-6295B2770EE3}|TestMicroservicioReportes\\TestMicroservicioReportes.csproj|solutionrelative:testmicroservicioreportes\\querytest\\reportepagosrecibidossubastaquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\query\\reportepagosrecibidossubastadorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\query\\reportepagosrecibidossubastadorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\interfaces\\isubastaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isubastaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\interfaces\\ipujaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipujaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\interfaces\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\entities\\puja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\puja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\exceptions\\usuarionoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\exceptions\\usuarionoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\exceptions\\falloalobtenersubastasexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\exceptions\\falloalobtenersubastasexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\exceptions\\falloalobtenerpujaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\exceptions\\falloalobtenerpujaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\reportesubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportesubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\historialpujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialpujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\reportepujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportepujasusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\reportepagosrecibidossubastadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportepagosrecibidossubastadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\historialpagosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialpagosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\pujadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\pujadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\application\\dtos\\historialsubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CC7C6-78B3-4244-8702-9C00DC781CFB}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialsubastasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268BCA22-FD4C-4324-BF53-02924D54D3A0}|MicroservicioReportes\\MicroservicioReportes.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\microservicioreportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268BCA22-FD4C-4324-BF53-02924D54D3A0}|MicroservicioReportes\\MicroservicioReportes.csproj|solutionrelative:microservicioreportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{694F69DC-8D5F-4B89-BCE0-DC2A0841E1EA}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioreportes\\domain\\value_objects\\ultimoscuatrodigitostarjetapagovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,30 +178,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "ReportePagosRecibidosSubastador.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\ReportePagosRecibidosSubastador.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ReportePagosRecibidosSubastador.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\ReportePagosRecibidosSubastador.cs",
               "RelativeToolTip": "Domain\\Entities\\ReportePagosRecibidosSubastador.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwFYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T19:28:13.889Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "PagoService.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\PagoService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\PagoService.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\PagoService.cs",
               "RelativeToolTip": "Application\\Services\\PagoService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA0wB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAA+wEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T19:36:15.173Z",
               "IsPinned": true,
@@ -137,13 +210,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "ReporteSubastasRealizadasHandler.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReporteSubastasRealizadasHandler.cs",
               "RelativeDocumentMoniker": "Application\\Handler\\ReporteSubastasRealizadasHandler.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReporteSubastasRealizadasHandler.cs",
               "RelativeToolTip": "Application\\Handler\\ReporteSubastasRealizadasHandler.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwF8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T19:49:59.619Z",
               "IsPinned": true,
@@ -151,13 +224,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "ReportePujasRealizadasUsuarioHandler.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReportePujasRealizadasUsuarioHandler.cs",
               "RelativeDocumentMoniker": "Application\\Handler\\ReportePujasRealizadasUsuarioHandler.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReportePujasRealizadasUsuarioHandler.cs",
               "RelativeToolTip": "Application\\Handler\\ReportePujasRealizadasUsuarioHandler.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T01:57:12.375Z",
               "IsPinned": true,
@@ -166,28 +239,223 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SubastaService.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\SubastaService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\SubastaService.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\SubastaService.cs",
-              "RelativeToolTip": "Application\\Services\\SubastaService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwDkAAABOAAAAAAAAAA==",
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\MicroservicioReportes\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "MicroservicioReportes\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\MicroservicioReportes\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "MicroservicioReportes\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:36:18.411Z",
+              "WhenOpened": "2025-07-05T19:56:08.638Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Puja.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\Puja.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Puja.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\Puja.cs",
-              "RelativeToolTip": "Domain\\Entities\\Puja.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwC0AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ReportesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\WebAPITest\\ReportesControllerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\WebAPITest\\ReportesControllerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\WebAPITest\\ReportesControllerTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\WebAPITest\\ReportesControllerTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T03:24:54.687Z",
+              "WhenOpened": "2025-07-12T05:18:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubastaServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\SubastaServiceTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\ServicesTest\\SubastaServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\SubastaServiceTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\ServicesTest\\SubastaServiceTest.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:15:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PujaServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\PujaServiceTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\ServicesTest\\PujaServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\PujaServiceTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\ServicesTest\\PujaServiceTest.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAEwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:13:21.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagoServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\PagoServiceTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\ServicesTest\\PagoServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\PagoServiceTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\ServicesTest\\PagoServiceTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswD0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:11:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubastaService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\SubastaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SubastaService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\SubastaService.cs",
+              "RelativeToolTip": "Application\\Services\\SubastaService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:00:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\UsuarioServiceTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\ServicesTest\\UsuarioServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\ServicesTest\\UsuarioServiceTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\ServicesTest\\UsuarioServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:08:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PujaService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\PujaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PujaService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\PujaService.cs",
+              "RelativeToolTip": "Application\\Services\\PujaService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:58:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReporteSubastasRealizadasHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\HandlerTest\\ReporteSubastasRealizadasHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\HandlerTest\\ReporteSubastasRealizadasHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\HandlerTest\\ReporteSubastasRealizadasHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\HandlerTest\\ReporteSubastasRealizadasHandlerTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:05:14.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportePujasRealizadasUsuarioHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\HandlerTest\\ReportePujasRealizadasUsuarioHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\HandlerTest\\ReportePujasRealizadasUsuarioHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\HandlerTest\\ReportePujasRealizadasUsuarioHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\HandlerTest\\ReportePujasRealizadasUsuarioHandlerTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:03:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportePagosRecibidosSubastadorHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\HandlerTest\\ReportePagosRecibidosSubastadorHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\HandlerTest\\ReportePagosRecibidosSubastadorHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\HandlerTest\\ReportePagosRecibidosSubastadorHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\HandlerTest\\ReportePagosRecibidosSubastadorHandlerTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:59:08.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReporteSubastasRealizadasQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReporteSubastasRealizadasQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Query\\ReporteSubastasRealizadasQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReporteSubastasRealizadasQuery.cs",
+              "RelativeToolTip": "Application\\Query\\ReporteSubastasRealizadasQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:55:27.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubastaReporte.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\SubastaReporte.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SubastaReporte.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\SubastaReporte.cs",
+              "RelativeToolTip": "Domain\\Entities\\SubastaReporte.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:30:03.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportePagosRecibidosSubastadorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:49:58.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportePujasRealizadasUsuarioQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\QueryTest\\ReportePujasRealizadasUsuarioQueryTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\QueryTest\\ReportePujasRealizadasUsuarioQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\QueryTest\\ReportePujasRealizadasUsuarioQueryTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\QueryTest\\ReportePujasRealizadasUsuarioQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:54:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportePujasUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\ReportePujasUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ReportePujasUsuario.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\ReportePujasUsuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\ReportePujasUsuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:07:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportePagosRecibidosSubastaQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\QueryTest\\ReportePagosRecibidosSubastaQueryTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioReportes\\QueryTest\\ReportePagosRecibidosSubastaQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\TestMicroservicioReportes\\QueryTest\\ReportePagosRecibidosSubastaQueryTest.cs",
+              "RelativeToolTip": "TestMicroservicioReportes\\QueryTest\\ReportePagosRecibidosSubastaQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:50:05.365Z",
               "EditorCaption": ""
             },
             {
@@ -208,208 +476,254 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubastaReporte.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\SubastaReporte.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\SubastaReporte.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\SubastaReporte.cs",
-              "RelativeToolTip": "Domain\\Entities\\SubastaReporte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "IPagosService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IPagosService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPagosService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IPagosService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPagosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:30:03.632Z",
+              "WhenOpened": "2025-07-05T19:42:48.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PujaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\PujaDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\PujaDTO.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\PujaDTO.cs",
-              "RelativeToolTip": "Application\\DTOs\\PujaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "ISubastaService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\ISubastaService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISubastaService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\ISubastaService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISubastaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T03:23:56.086Z",
+              "WhenOpened": "2025-07-07T07:13:00.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
+              "Title": "IPujaService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IPujaService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPujaService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IPujaService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPujaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:13:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportePujasRealizadasUsuarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
+              "RelativeToolTip": "Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:44:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:14:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportePagosRecibidosSubastadorQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
+              "RelativeToolTip": "Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:44:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Puja.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\Puja.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Puja.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\Puja.cs",
+              "RelativeToolTip": "Domain\\Entities\\Puja.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:24:54.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:02:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsuarioNoEncontradoException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Exceptions\\UsuarioNoEncontradoException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\UsuarioNoEncontradoException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Exceptions\\UsuarioNoEncontradoException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\UsuarioNoEncontradoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:41:22.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FalloAlObtenerSubastasException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Exceptions\\FalloAlObtenerSubastasException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\FalloAlObtenerSubastasException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Exceptions\\FalloAlObtenerSubastasException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\FalloAlObtenerSubastasException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:40:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FalloAlObtenerPujaException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Exceptions\\FalloAlObtenerPujaException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\FalloAlObtenerPujaException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Exceptions\\FalloAlObtenerPujaException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\FalloAlObtenerPujaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:40:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ReporteSubastasDTO.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReporteSubastasDTO.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ReporteSubastasDTO.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReporteSubastasDTO.cs",
               "RelativeToolTip": "Application\\DTOs\\ReporteSubastasDTO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wEsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T19:49:21.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReportePagosRecibidosSubastadorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
-              "RelativeToolTip": "Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:49:13.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReportePujasUsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePujasUsuarioDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ReportePujasUsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePujasUsuarioDTO.cs",
-              "RelativeToolTip": "Application\\DTOs\\ReportePujasUsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T03:16:35.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReportePujasUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\ReportePujasUsuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\ReportePujasUsuario.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Entities\\ReportePujasUsuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\ReportePujasUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T03:07:12.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PujaService.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\PujaService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\PujaService.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Services\\PujaService.cs",
-              "RelativeToolTip": "Application\\Services\\PujaService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwC8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:58:37.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "HistorialPujasUsuarioDTO.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialPujasUsuarioDTO.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\HistorialPujasUsuarioDTO.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialPujasUsuarioDTO.cs",
               "RelativeToolTip": "Application\\DTOs\\HistorialPujasUsuarioDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T03:14:07.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 34,
+              "Title": "ReportePujasUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePujasUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ReportePujasUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePujasUsuarioDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ReportePujasUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:16:35.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReportePagosRecibidosSubastadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ReportePagosRecibidosSubastadorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:49:13.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HistorialPagosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialPagosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\HistorialPagosDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialPagosDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\HistorialPagosDTO.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:47:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PujaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\PujaDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PujaDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\PujaDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\PujaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:23:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "HistorialSubastasDTO.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialSubastasDTO.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\HistorialSubastasDTO.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialSubastasDTO.cs",
               "RelativeToolTip": "Application\\DTOs\\HistorialSubastasDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T03:14:12.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\MicroservicioReportes\\Program.cs",
               "RelativeDocumentMoniker": "MicroservicioReportes\\Program.cs",
               "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\MicroservicioReportes\\Program.cs",
               "RelativeToolTip": "MicroservicioReportes\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwDAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:55:24.203Z"
+              "WhenOpened": "2025-07-05T19:55:24.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReportesController.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\MicroservicioReportes\\Controllers\\ReportesController.cs",
-              "RelativeDocumentMoniker": "MicroservicioReportes\\Controllers\\ReportesController.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\MicroservicioReportes\\Controllers\\ReportesController.cs",
-              "RelativeToolTip": "MicroservicioReportes\\Controllers\\ReportesController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvyIAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:56:08.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReportePagosRecibidosSubastadorHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
-              "RelativeToolTip": "Application\\Handler\\ReportePagosRecibidosSubastadorHandler.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:49:58.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HistorialPagosDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialPagosDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\HistorialPagosDTO.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\DTOs\\HistorialPagosDTO.cs",
-              "RelativeToolTip": "Application\\DTOs\\HistorialPagosDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:47:00.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReportePujasRealizadasUsuarioQuery.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
-              "RelativeToolTip": "Application\\Query\\ReportePujasRealizadasUsuarioQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:44:16.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ReportePagosRecibidosSubastadorQuery.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
-              "RelativeToolTip": "Application\\Query\\ReportePagosRecibidosSubastadorQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:44:14.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IPagosService.cs",
-              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IPagosService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPagosService.cs",
-              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Interfaces\\IPagosService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IPagosService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:42:48.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "UltimosCuatroDigitosTarjetaPagoVO.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Value_Objects\\UltimosCuatroDigitosTarjetaPagoVO.cs",
               "RelativeDocumentMoniker": "Domain\\Value_Objects\\UltimosCuatroDigitosTarjetaPagoVO.cs",
@@ -417,11 +731,12 @@
               "RelativeToolTip": "Domain\\Value_Objects\\UltimosCuatroDigitosTarjetaPagoVO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:34:16.045Z"
+              "WhenOpened": "2025-07-05T19:34:16.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "FechaPagoVO.cs",
               "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioReportes\\Domain\\Value_Objects\\FechaPagoVO.cs",
               "RelativeDocumentMoniker": "Domain\\Value_Objects\\FechaPagoVO.cs",
@@ -429,7 +744,18 @@
               "RelativeToolTip": "Domain\\Value_Objects\\FechaPagoVO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:32:43.411Z"
+              "WhenOpened": "2025-07-05T19:32:43.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
